@@ -1,0 +1,83 @@
+index,text,index_column
+0,"Meeting Chairman: If we are all here, let's get started. First of all, I'd like you to please join me in welcoming Jack Peterson, our Southwest Area Sales Vice President.",0
+2,"Jack Peterson: Thank you for having me, I'm looking forward to today's meeting.",1
+4,Meeting Chairman: I'd also like to introduce Margaret Simmons who recently joined our team.,2
+6,"Margaret Simmons: May I also introduce my assistant, Bob Hamp.",3
+8,"Meeting Chairman: Welcome Bob. I'm afraid our national sales director, Anne Trusting, can't be with us today. She is in Kobe at the moment, developing our Far East sales force.",4
+10,"Meeting Chairman: Let's get started. We're here today to discuss ways of improving sales in rural market areas. First, let's go over the report from the last meeting which was held on June 24th. Right, Tom, over to you.",5
+12,"Tom Robbins: Thank you Mark. Let me just summarize the main points of the last meeting. We began the meeting by approving the changes in our sales reporting system discussed on May 30th. After briefly revising the changes that will take place, we moved on to a brainstorming session concerning after customer support improvements. You'll find a copy of the main ideas developed and discussed in these sessions in the photocopies in front of you. The meeting was declared closed at 11.30.",6
+14,"Meeting Chairman: Thank you Tom. So, if there is nothing else we need to discuss, let's move on to today's agenda. Have you all received a copy of today's agenda? If you don't mind, I'd like to skip item 1 and move on to item 2: Sales improvement in rural market areas. Jack has kindly agreed to give us a report on this matter. Jack?",7
+16,"Jack Peterson: Before I begin the report, I'd like to get some ideas from you all. How do you feel about rural sales in your sales districts? I suggest we go round the table first to get all of your input.",8
+18,"John Ruting: In my opinion, we have been focusing too much on urban customers and their needs. The way I see things, we need to return to our rural base by developing an advertising campaign to focus on their particular needs.",9
+20,Alice Linnes: I'm afraid I can't agree with you. I think rural customers want to feel as important as our customers living in cities. I suggest we give our rural sales teams more help with advanced customer information reporting.,10
+22,"Donald Peters: Excuse me, I didn't catch that. Could you repeat that, please?",11
+24,Alice Linnes: I just stated that we need to give our rural sales teams better customer information reporting.,12
+26,John Ruting: I don't quite follow you. What exactly do you mean?,13
+28,"Alice Linnes: Well, we provide our city sales staff with database information on all of our larger clients. We should be providing the same sort of knowledge on our rural customers to our sales staff there.",14
+30,"Jack Peterson: Would you like to add anything, Jennifer?",15
+32,Jennifer Miles: I must admit I never thought about rural sales that way before. I have to agree with Alice.,16
+34,"Jack Peterson: Well, let me begin with this Power Point presentation (Jack presents his report). As you can see, we are developing new methods to reach out to our rural customers.",17
+36,John Ruting: I suggest we break up into groups and discuss the ideas we've seen presented.,18
+38,"Meeting Chairman: Unfortunately, we're running short of time. We'll have to leave that to another time.",19
+40,"Jack Peterson: Before we close, let me just summarize the main points:",20
+42,Rural customers need special help to feel more valued.,21
+43,Our sales teams need more accurate information on our customers.,22
+44,A survey will be completed to collect data on spending habits in these areas.,23
+45,The results of this survey will be delivered to our sales teaMs,24
+46,We are considering specific data mining procedures to help deepen our understanding.,25
+47,"Meeting Chairman: Thank you very much Jack. Right, it looks as though we've covered the main items Is there any other business?",26
+49,"Donald Peters: Can we fix the next meeting, please?",27
+51,"Meeting Chairman: Good idea Donald. How does Friday in two weeks time sound to everyone? Let's meet at the same time, 9 o'clock. Is that OK for everyone? Excellent. I'd like to thank Jack for coming to our meeting today. The meeting is closed.",28
+52,"Tom: Hi, I am Tom.",29
+54,Ana: I am Ana.,30
+56,"Tom: This is a pretty good seminar so far, huh?",31
+58,"Ana: Yes, I like it. Prentice Hall always delivers good seminars. All of its speakers are very well-known and also very knowledgeable in the subject matter. Did you attend the seminar on Leadership in Long Beach last January?",32
+60,"Tom: No, I missed that one. Who was the speaker?",33
+62,Ana: John Miller. He is the author of The Seven Habits of a Good Leader. It was a great seminar. John gave us tons of information on how to deal with employees. You should sign up for that seminar next year.,34
+64,"Tom: I will. I am very interested in the subject of Leadership. I was promoted to the position of Supervisor a few months ago, and I have to manage a staff of ten people. It can be quite a difficult situation sometimes. It is the reason why I am here today.",35
+66,"Ana: Same here. I only have seven people reporting to me; yet, sometimes I feel like pulling my hair out. I need to find a way to create harmony and cooperation within my department.",36
+68,Tom: I also need to learn how to better manage my workload. I always run out of time. It seems like the days are getting shorter and shorter.,37
+70,Ana: You need to sign up for the Learn How To Delegate seminar. It is coming next month.,38
+72,Tom: Let's see whether I will have any free time next month. I know sometime next month I will have to go to Texas on a business trip.,39
+74,"Ana: By the way, what is your company doing?",40
+76,"Tom: Oh, we produce office equipment such as calculators and fax machines. How about yours?",41
+78,Ana: We are in the service business. We specialize in repairing computers.,42
+80,Tom: How was business lately?,43
+82,"Ana: It is pretty slow right now. Just like any other company, we are quite affected by this slowing economy.",44
+84,"Tom: Business is slow with my company too. However, people are saying that it should pick up any time now.",45
+86,Ana: Let's hope so. We need to keep our employees busy. ,46
+88,"Tom: I have some very talented employees, and I would like to keep their minds sharp. They tend to be bored when things slow down, and that is not good. ",47
+90,"Ana: Yes, nothing is more frustrating than sitting idle with nothing to do. The days seem so long. ",48
+92,"Tom: I hate those types of days. Luckily, it is not that bad in our company. Besides, we are in the process of updating our computer system, and we can use this slow period to finish the process. ",49
+94,"Ana: Good for you. Oh, 10:30 AM already. I guess our break-time is over. ",50
+96,"Tom: The topic of the next session, How To Make Positive Impression On Others And Gain Visibility And Influence In The Workplace, seems to be really interesting. We better not miss any part of it. Lets get back to our seats so that we can learn how to bring out the best in ourselves as well as our employees.",51
+97,"Jane: Lynn, please come to my office. I just received a revised purchase order from one of our customers.",52
+99,Lynn: I am here.,53
+101,"Jane: Lynn, remember the order we received from Colours House two weeks ago?",54
+103,Lynn: The one for a lot of 500 oak wood windows?,55
+105,"Jane: Yes, that is the one. Did we start production on it yet?",56
+107,"Lynn: I do not think so since we do not have to make delivery until the twentieth of this month, another fifteen days.",57
+109,Jane: Good. I just received a revised order from its Purchasing department. They want pine wood instead of oak wood.,58
+111,Lynn: We have already ordered the oak wood from Lumber House. It will cost us more if we put in a change of order now.,59
+113,Jane: Don't worry. Colours House is willing to pay an extra twenty-five percent for the change.,60
+115,Lynn: It is OK then. When do we have to ship the order? Is it still due on the twentieth?,61
+117,"Jane: No, they gave us extra time to fill the new order. It is not due until the twenty-fifth of the month now.",62
+119,"Lynn: Did they change the shipping terms? Do we still have to deliver the order, or will they come here to pick it up?",63
+121,"Jane: We still have to take care of the shipping process, and it is still going to Chicago.",64
+123,Lynn: Then I do not have to make any shipping changes other than changing the pickup date.,65
+125,"Jane: I think you should put a call in to Trucking Lines as soon as possible. The thirtieth of this month is a major holiday, and its shipping schedule is going to be very tight.",66
+127,"Lynn: True, they might not accommodate our change if they receive our notice too late.",67
+129,"Jane: Oh, here is the change of order from Colours House. You can sign and fax it back to them after reviewing it.",68
+131,Lynn: I better give a copy of this new order to our Production department. They need to be aware of the change.,69
+133,Jane: How is our Production department doing?,70
+135,Lynn: It is running on a very tight schedule. We received quite a few orders lately.,71
+137,Jane: I bet all the customers want their orders now or as soon as possible. The Production department will have to work a lot of overtime this month.,72
+139,Lynn: Overtime already started last week with all the employees in the Assembly department working an average of two hours overtime per day.,73
+141,Jane: I hope the customers appreciate our quick response time and the fact that we always jump through hoops to give them whatever they want.,74
+143,"Lynn: It does pay to keep up with the customers' demand. Everybody likes our products and services. Even though it is sometimes very difficult to please everybody, it is fine with me because I love this company, and I want to see it prosper.",75
+145,"Jane: We can take pride in a job well done. Besides, it makes our job easier also.",76
+147,"Lynn: Yes, I would not like to hear people complain. I would hate to deal with unhappy customers.",77
+149,Jane: It is really stressful to deal with unhappy customers. I doubt that I will be able to relax even when I get home at the end of the day.,78
+151,"Lynn: Me neither. OK, everything is set. I will call Colours House and tell them everything is set to go.",79
+153,"Jane: Thanks for your help, Lynn.",80
+155,"Lynn: You are welcome, Jane.",81
